@@ -21,6 +21,8 @@ target 'flashlight' do
 
   pod 'react-native-torch', :path => '../node_modules/react-native-torch'
 
+  pod 'react-native-cameraroll', :path => '../node_modules/@react-native-community/cameraroll'
+
   target 'flashlightTests' do
     inherit! :complete
     # Pods for testing

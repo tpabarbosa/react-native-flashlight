@@ -10,10 +10,16 @@
         "lint": "eslint ."
     },
     "dependencies": {
+        "@miblanchard/react-native-slider": "^2.1.0",
+        "@react-native-community/cameraroll": "^4.1.2",
+        "fbjs": "^3.0.4",
         "react": "17.0.2",
         "react-native": "0.68.2",
+        "react-native-screen-brightness": "^2.0.0-alpha",
         "react-native-shake": "^5.1.1",
-        "react-native-torch": "^1.2.0"
+        "react-native-torch": "^1.2.0",
+        "react-native-vector-icons": "^9.1.0",
+        "react-native-vision-camera": "^2.13.3"
     },
     "devDependencies": {
         "@babel/core": "^7.12.9",

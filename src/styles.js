@@ -38,7 +38,10 @@ export default styles = StyleSheet.create({
         width: 250,
         height: 250
     },
-    test: {
-        backgroundColor: 'red',
-    }
+    sosText: {
+        fontSize: 60,
+        textAlign: 'center',
+        marginVertical: 80,
+    },
+
 })
